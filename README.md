@@ -4,7 +4,7 @@ Es prerrequisito tener instalado ANSIBLE
 
 ## INSTRUCCIONES:
 
-Correr con SUDO el playbook `lemp'
+Correr con SUDO el playbook 'lemp'
 
 ```bash
  sudo ansible-playbook lemp.yaml -i hosts -v
